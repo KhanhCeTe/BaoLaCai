@@ -233,7 +233,7 @@ margin-bottom: 20px;
   transform: rotateY(180deg);
   transition: 0.7s ease-in-out;
   color:white;
-  background:#00bc95;
+  background:#0077bc;
 }
 .service-part{
   margin-bottom: 50px;
@@ -331,7 +331,7 @@ bottom: 0;
   margin-bottom: 0;
 }
 .link-custom{
-  color: #00bc95;
+  color: #0077bc;
   font-weight: bold;
 }
 .text-counter{
@@ -353,8 +353,8 @@ bottom: 0;
   transform: scale(1.5); 
 }
 .btn-custom{
-  background-color: #00bc95;
-  border: solid 1px #00bc95;
+  background-color: #0077bc;
+  border: solid 1px #0077bc;
   color: #FFF;
   font-size: 0.8em;
   position: relative;
@@ -593,7 +593,7 @@ hr{
 }
 .blue-fluid,
 .footer{
-  background-color:#00bc95;
+  background-color:#2a3aa1;
   padding: 10px;
   width: 100%;
 }
