@@ -1,0 +1,52 @@
+.login{
+	width:400px;
+	height:600px;
+	border: 2px solid black;
+	border-radius:10px;
+	text-align: center;
+	margin-top: 200px;
+	margin-left: 300px;
+	
+	
+
+
+}
+h2{
+	color: #abbcd6;
+	font-family: sans-serif;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom: 40px;
+
+}
+input{
+	height:40px;
+	width:100%;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	border:none;
+	border-bottom: 3px solid #ccc;
+	
+	
+}
+label{
+	float:left;
+	padding-left: 5px;
+	
+
+}
+button{
+	height:40px;
+	width:220px;
+	margin-bottom: 15px;
+	border-radius: 10px;
+	border: none;
+	background:#2e90e6;
+	color:white;
+	margin-top: 100px;
+}
+button:hover{
+	font-size: 15px;
+	background: #36a5f5 ;
+
+}

@@ -9,6 +9,8 @@
     padding-right: 0;
   }
 }
+
+
 @media screen and (max-width:768px)
 {
   .btn-slide {
@@ -728,4 +730,12 @@ hr{
 }
 .page-link {
   color: #00bc95;
+}
+.carousel-item{
+  background: no-repeat;
+
+}
+#anh1{
+  repeat: no-repeat;
+  background: cover;
 }
